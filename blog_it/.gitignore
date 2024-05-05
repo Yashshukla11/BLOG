@@ -878,7 +878,7 @@ DerivedData/
 *.perspectivev3
 !default.perspectivev3
 
-
+app_secrets.dart
 ### Flutter Generated Exceptions
 
 # Exceptions to above rules.
